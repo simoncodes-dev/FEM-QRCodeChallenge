@@ -46,7 +46,7 @@ I need to continue working on my CSS skills, although I generally find myself de
 ## Author
 
 - Website - It's down right now! 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@simoncodes-dev](https://www.frontendmentor.io/profile/simoncodes-dev)
 - Discord - @bleith
 
 ## Acknowledgments
